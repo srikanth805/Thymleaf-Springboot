@@ -1,1 +1,1 @@
-# Thymleaf-Springboot
+# Thymeleaf-Springboot
